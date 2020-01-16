@@ -1,0 +1,12 @@
+body {
+  margin-top: 20px;
+  background: lightpink;
+}
+
+.card {
+  padding: 5px;
+}
+
+.form-group {
+  padding-top: 30px;
+}
